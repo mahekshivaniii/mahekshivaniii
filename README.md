@@ -6,4 +6,7 @@
  😄 Pronouns: mahek shivani <br>
  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahekshivaniii"/></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mahekshivaniii&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=mahekshivaniii&theme=default" />
+</picture>

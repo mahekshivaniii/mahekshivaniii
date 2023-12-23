@@ -10,6 +10,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mahekshivaniii&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=mahekshivaniii&theme=default" />
 </picture>
-
-MY github Stats:
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahekshivaniii&show_icons=true&theme=tokyonight)

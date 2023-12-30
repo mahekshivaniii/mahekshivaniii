@@ -1,11 +1,7 @@
 
- 🔭 I’m currently working on myself <br>
- 🌱 I’m currently learning new technologies<br> 
- 👯 I’m looking to collaborate on open source project<br> 
  
- 😄 Pronouns: mahek shivani <br>
- 
-
+<h1 align = " center">Namasate Everyone,🙏</h1>
+<h2 align="center">Mahek here</h2>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mahekshivaniii&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=mahekshivaniii&theme=dark" />

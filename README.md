@@ -6,5 +6,5 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahekshivaniii&theme=github_dark"/></a>
 <br>
 
-<!--<img src= "https://github-readme-stats.vercel.app/api?username=mahekshivaniii&show_icons=true&theme=tokyonight"> -->
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekshivaniii&theme=tokyonight">
+<!--<img src= "https://github-readme-stats.vercel.app/api?username=mahekshivaniii&show_icons=true&theme=tokyonight">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekshivaniii&theme=tokyonight">  -->
